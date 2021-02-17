@@ -1,0 +1,11 @@
+<RCC>
+  <qresource>
+    <file>Icon/key.png</file>
+    <file>Icon/book.png</file>
+    <file>Icon/event.png</file>
+    <file>Icon/settings.png</file>
+    <file>Icon/theme.png</file>
+    <file>Icon/customer.png</file>
+    
+  </qresource>
+</RCC>
