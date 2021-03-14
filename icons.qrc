@@ -1,11 +1,11 @@
 <RCC>
   <qresource>
-    <file>Icon/key.png</file>
-    <file>Icon/book.png</file>
-    <file>Icon/event.png</file>
-    <file>Icon/settings.png</file>
-    <file>Icon/theme.png</file>
-    <file>Icon/customer.png</file>
+    <file>key.png</file>
+    <file>book.png</file>
+    <file>event.png</file>
+    <file>settings.png</file>
+    <file>heme.png</file>
+    <file>customer.png</file>
     
   </qresource>
 </RCC>
